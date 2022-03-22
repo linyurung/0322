@@ -1,0 +1,55 @@
+@charset "utf-8";
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+header {
+    text-align: center;
+    background-color: #FBF5D8;
+    border-radius: 10px;
+}
+
+.container header h1 {
+    color: #763F1C;
+}
+
+nav p a:link {
+    color: #CD6B32;
+}
+nav p a:visited{
+    color: #E09D83;
+}
+
+.container article h2 {
+    background-color: #C9A06C;
+    padding-left: 10px;
+    border-radius: 5px;
+    color: #702F00;
+}
+.containerp1 {
+    margin-left: 174px;
+}
+.containerp2 {
+    margin-left: 130px;
+}
+.containerp3 {
+    margin-left: 174px;
+}
+.containerp4 {
+    margin-left: 154px;
+}
+footer {
+    text-align: right;
+	color: #763F1C;
+	background-color: #FBF5D8;
+}
+body {
+    background-color: #F2DC85;
+}
+article li a:visited{
+    color: #E09D83;
+}
+article li a:link {
+	color: #CD6B32;
+}
